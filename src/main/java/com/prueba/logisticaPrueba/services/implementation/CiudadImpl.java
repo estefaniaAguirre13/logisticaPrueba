@@ -7,9 +7,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.prueba.logisticaPrueba.dto.AlmacenDTO;
 import com.prueba.logisticaPrueba.dto.CiudadDTO;
-import com.prueba.logisticaPrueba.entities.Almacen;
 import com.prueba.logisticaPrueba.entities.Ciudad;
 import com.prueba.logisticaPrueba.repository.CiudadRepository;
 import com.prueba.logisticaPrueba.utils.helpers.MHelpers;
